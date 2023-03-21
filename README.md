@@ -1,8 +1,7 @@
 # emsi-ioc-2
 TP1 Java JEE
 
-Interface IDao
-<img width="870" alt="Screenshot 2023-03-21 at 22 33 14" src="https://user-images.githubusercontent.com/86338020/226758004-8f3b3404-8f1e-44a9-80f1-9f02c560abd4.png">
+Interface IDao<img width="870" alt="Screenshot 2023-03-21 at 22 33 14" src="https://user-images.githubusercontent.com/86338020/226758004-8f3b3404-8f1e-44a9-80f1-9f02c560abd4.png">
 
 Classe Dao
 <img width="903" alt="Screenshot 2023-03-21 at 22 33 20" src="https://user-images.githubusercontent.com/86338020/226758108-ad26b9bc-75e7-4c4f-91a3-f392ff72c53c.png">
