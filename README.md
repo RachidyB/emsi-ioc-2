@@ -29,7 +29,12 @@ Presentation spring annotations
 <img width="931" alt="Screenshot 2023-03-21 at 22 33 41" src="https://user-images.githubusercontent.com/86338020/226759264-1dd282b6-5731-49ed-9a63-d2f66e425906.png">
 
 Presentation spring XML
+<img width="947" alt="Screenshot 2023-03-21 at 22 33 43" src="https://user-images.githubusercontent.com/86338020/226759419-264b5144-350e-4e23-b396-546a97dc54d4.png">
 
+application context xml
+<img width="1027" alt="Screenshot 2023-03-21 at 22 33 46" src="https://user-images.githubusercontent.com/86338020/226759524-5ad1f3da-ab5e-4236-863b-76c7d17fbd23.png">
 
+confix.txt
+<img width="324" alt="Screenshot 2023-03-21 at 22 33 54" src="https://user-images.githubusercontent.com/86338020/226759607-ee8476d5-b7f0-4dcd-ad8c-05cff8ec47cb.png">
 
 
