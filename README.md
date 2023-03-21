@@ -22,4 +22,14 @@ Classe Metier
 Presentation Statique
 <img width="723" alt="Screenshot 2023-03-21 at 22 33 35" src="https://user-images.githubusercontent.com/86338020/226758751-4edfda81-e004-4205-9f79-7a5b6add1b69.png">
 
-Presentation dynamique![Uploading Screenshot 2023-03-21 at 22.33.38.png…]()
+Presentation dynamique
+<img width="900" alt="Screenshot 2023-03-21 at 22 33 38" src="https://user-images.githubusercontent.com/86338020/226759181-225164e0-39bf-4b03-8e4b-e56c4749751a.png">
+
+Presentation spring annotations
+<img width="931" alt="Screenshot 2023-03-21 at 22 33 41" src="https://user-images.githubusercontent.com/86338020/226759264-1dd282b6-5731-49ed-9a63-d2f66e425906.png">
+
+Presentation spring XML
+
+
+
+
